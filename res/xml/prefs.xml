@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+     <CheckBoxPreference 
+         android:key="@string/findmesms_enabled"
+         android:title="FindMeSms Enabled" android:defaultValue="true"/>
+     <ListPreference 
+         android:title="Alarm Duration" 
+         android:summary="The number of seconds the alarm will run before shutting off." 
+         android:key="@string/timeout_settings_key"
+         android:entries="@array/timeoutEntries"
+         android:entryValues="@array/timeoutEntryValues" 
+         android:defaultValue="60000"
+         android:dependency="@string/findmesms_enabled" />
+     <EditTextPreference 
+         android:title="Trigger Text" 
+         android:summary="FindMeSms scans incoming text messages for this text.  When found, alarm sounds." 
+         android:dependency="@string/findmesms_enabled"
+         android:key="@string/text_id_settings_key" 
+         android:defaultValue="findmesms" />
+
+</PreferenceScreen>
