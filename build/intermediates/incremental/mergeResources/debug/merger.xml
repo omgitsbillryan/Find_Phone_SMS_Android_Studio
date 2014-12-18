@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Bill\workspace\Find Phone SMS - Copy - Copy\res"><file name="ic_launcher" path="C:\Users\Bill\workspace\Find Phone SMS - Copy - Copy\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Bill\workspace\Find Phone SMS - Copy - Copy\res\drawable-ldpi\ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Bill\workspace\Find Phone SMS - Copy - Copy\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Bill\workspace\Find Phone SMS - Copy - Copy\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Users\Bill\workspace\Find Phone SMS - Copy - Copy\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="C:\Users\Bill\workspace\Find Phone SMS - Copy - Copy\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_shut_alarm_off" path="C:\Users\Bill\workspace\Find Phone SMS - Copy - Copy\res\layout\activity_shut_alarm_off.xml" qualifiers="" type="layout"/><file name="activity_main" path="C:\Users\Bill\workspace\Find Phone SMS - Copy - Copy\res\menu\activity_main.xml" qualifiers="" type="menu"/><file name="activity_shut_alarm_off" path="C:\Users\Bill\workspace\Find Phone SMS - Copy - Copy\res\menu\activity_shut_alarm_off.xml" qualifiers="" type="menu"/><file path="C:\Users\Bill\workspace\Find Phone SMS - Copy - Copy\res\values\arrays.xml" qualifiers=""><string-array name="timeoutEntries">
+        <item>15 seconds</item>
+        <item>30 seconds</item>
+        <item>45 seconds</item>
+        <item>1 minute</item>
+        <item>5 minutes</item>
+    </string-array><string-array name="timeoutEntryValues">
+        <item>15000</item>
+        <item>30000</item>
+        <item>45000</item>
+        <item>60000</item>
+        <item>300000</item>
+    </string-array></file><file path="C:\Users\Bill\workspace\Find Phone SMS - Copy - Copy\res\values\strings.xml" qualifiers=""><string name="findmesms_enabled">Enabled</string><string name="timeout_settings_key">timeout_settings</string><string name="title_activity_shut_alarm_off">ShutAlarmOff</string><string name="crash_report_text">FindMeSms has crashed!</string><string name="app_name">Find Phone SMS</string><string name="hello_world">Hello world!</string><string name="text_id_settings_key">text_id_settings</string><string name="menu_settings">Settings</string></file><file path="C:\Users\Bill\workspace\Find Phone SMS - Copy - Copy\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style></file><file path="C:\Users\Bill\workspace\Find Phone SMS - Copy - Copy\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="C:\Users\Bill\workspace\Find Phone SMS - Copy - Copy\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file name="prefs" path="C:\Users\Bill\workspace\Find Phone SMS - Copy - Copy\res\xml\prefs.xml" qualifiers="" type="xml"/></source><source path="C:\Users\Bill\workspace\Find Phone SMS - Copy - Copy\build\generated\res\rs\debug"/><source path="C:\Users\Bill\workspace\Find Phone SMS - Copy - Copy\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Bill\workspace\Find Phone SMS - Copy - Copy\build-types\debug\res"/></dataSet><mergedItems/></merger>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Bill/workspace/Find%20Phone%20SMS%20-%20Copy%20-%20Copy/res/values/arrays.xml -->
+    <eat-comment/>
+    <string-array name="timeoutEntries">
+        <item>15 seconds</item>
+        <item>30 seconds</item>
+        <item>45 seconds</item>
+        <item>1 minute</item>
+        <item>5 minutes</item>
+    </string-array>
+    <string-array name="timeoutEntryValues">
+        <item>15000</item>
+        <item>30000</item>
+        <item>45000</item>
+        <item>60000</item>
+        <item>300000</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Bill/workspace/Find%20Phone%20SMS%20-%20Copy%20-%20Copy/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Find Phone SMS</string>
+    <string name="crash_report_text">FindMeSms has crashed!</string>
+    <string name="findmesms_enabled">Enabled</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="text_id_settings_key">text_id_settings</string>
+    <string name="timeout_settings_key">timeout_settings</string>
+    <string name="title_activity_shut_alarm_off">ShutAlarmOff</string>
+    <!-- From: file:/C:/Users/Bill/workspace/Find%20Phone%20SMS%20-%20Copy%20-%20Copy/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
